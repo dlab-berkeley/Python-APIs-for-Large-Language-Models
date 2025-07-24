@@ -18,7 +18,7 @@ In this hands-on workshop, you will learn how to use Python to call LLM APIs and
 After this workshop, you will be able to do:
 
 - **API Setup & Authentication:** Configure access to an LLM provider using OpenRouter for research projects.
-- **API Call Formatting: **Understand the differences between chat and completion endpoints, construct proper request formats, handle parameters like temperature and max tokens, and manage conversation context.
+- **API Call Formatting:** Understand the differences between chat and completion endpoints, construct proper request formats, handle parameters like temperature and max tokens, and manage conversation context.
 - **Structured Output:** Design prompts that return consistent JSON responses for tasks like sentiment classification, theme extraction, content coding, and demographic categorization.
 - **Integration & Error Handling:** Parse API responses into Python objects, implement retry logic for failed requests, manage rate limits and costs when processing research datasets.
 
